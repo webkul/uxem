@@ -646,10 +646,14 @@ body.ue-dark-mode .ue-empty-state img{
     color: var(--primary-86);
 }
 
-.ue-promo iframe{
+.ue-promo{
+    margin: 16px 0;
+}
+
+.ue-promo a{
     display: inline-block;
     vertical-align: middle;
-    margin-left: 15px;
+    margin: 0 8px 12px 0;
 }
 
 noscript{
@@ -659,7 +663,6 @@ noscript{
 a.ue-share-tw{
     color: var(--primary-86);
     font-size: 18px;
-    margin: 16px 0;
     display: inline-block;
     font-family: var(--sans-serif);
     text-decoration: none;
