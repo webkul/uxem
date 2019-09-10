@@ -350,7 +350,7 @@ var initHandler = function () {
             projectListReq.onsuccess = function () {
                 totalProjects = projectListReq.result.length;
                 if (projectListReq.result.length == 0) {
-                    ueProjectList.innerHTML = '<div class="ue-empty-state"><img></img><p>You killed all the projects, Try refreshing or creating a new project.</p></div>';
+                    ueProjectList.innerHTML = '<div class="ue-empty-state"><img></img><p>You killed all the projects, try refreshing or creating a new project.</p></div>';
                 } else {
                     ueProjectList.innerHTML = '';
                     var projectList = projectListReq.result;
