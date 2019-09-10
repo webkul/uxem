@@ -3,7 +3,7 @@ model = {
     id: `1`,
     title: `Empathy map tool to visualise user's need and behaviour`,
     says: `<ul><li>Need to create different maps for different projects</li><li>No solidity in the user research workflow</li><li>User feedback/suggestions get cumbersome</li><li>Need to organise data to share with stakeholders</li></ul>`,
-    thinks: `<ul><li>Uses word-processor or notepad</li><li>Uses sticky notes</li><li>Scribbles on Moleskine</li><li>Keeps searching archives</li></ul>`,
+    thinks: `<ul><li>The conventional process takes a lot of productive time</li><li>Is there any better alternative or tool?</li><li>How to kill the spaghetti mess</li></ul>`,
     does: `<ul><li>Uses word-processor or notepad</li><li>Uses sticky notes</li><li>Scribbles on Moleskine</li><li>Keeps searching archives</li></ul>`,
     feels: `<ul><li>Saturated</li><li>Frustrated</li><li>Anxious</li><li>Sloppy</li></ul>`
 }
