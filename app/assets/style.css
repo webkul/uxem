@@ -171,13 +171,14 @@ body.ue-dark-mode .ue-xs-menu ul li:before {
     max-width: 2000px;
 }
 
-.ue-logo span {
+.ue-logo a {
     display: inline-block;
     font-size: 28px;
     color: var(--primary-86);
+    text-decoration: none;
 }
 
-.ue-logo span strong {
+.ue-logo a strong {
     font-weight: 700;
 }
 
@@ -426,15 +427,19 @@ h2.ue-locked+.ue-notes {
 }
 
 .ue-authors {
-    width: 300px;
-    max-width: 100%;
     display: grid;
-    grid-template-columns: auto auto;
+    grid-template-columns: 1fr;
     margin-bottom: 34px;
+}
+
+.ue-authors a{
+    text-decoration: none;
 }
 
 .ue-authors p {
     margin-bottom: 8px;
+    display: inline-block;
+    text-decoration: underline;
 }
 
 .ue-authors .ue-ic {

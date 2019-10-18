@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="49px" height="46px" viewBox="0 0 49 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>BG-Icon-2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Landing-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-247.000000, -164.000000)" id="BG-Icon-2">
+            <g transform="translate(248.000000, 165.000000)">
+                <g id="Group-2">
+                    <polygon id="Triangle" fill="#D8D8D8" transform="translate(27.783171, 23.370749) rotate(-60.000000) translate(-27.783171, -23.370749) " points="27.7831715 10.3420644 44.7831715 36.3994327 10.7831715 36.3994327"></polygon>
+                    <circle id="Oval" stroke="#0F0F0F" cx="15.5" cy="15.5" r="15.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
